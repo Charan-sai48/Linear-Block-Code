@@ -95,8 +95,9 @@ add = err + rc
 print(f"The correct codeword is : " + " " .join(map(str,add)))
 ```
 ## Output Waveform
-```
-Attach the output waveform
-```
+
+<img width="908" height="1137" alt="image" src="https://github.com/user-attachments/assets/a77090be-0e49-4396-a308-9f35d50bcede" />
+
+
 ## Results
 The Linear Block Code was successfully implemented. Codewords were generated, and errors in received codewords were detected and corrected using the syndrome decoding method.
